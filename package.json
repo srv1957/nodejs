@@ -1,0 +1,14 @@
+{
+  "name": "customers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js "
+  },
+  "author": "Derek Griggs",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}
